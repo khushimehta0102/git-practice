@@ -1,1 +1,1 @@
-Hello this is datamites class
+This is new file in branch b2
